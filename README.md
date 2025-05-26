@@ -12,4 +12,11 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 - Responsive design for mobile and desktop  
 - Easy-to-use interface
 
+---
 
+## Demo
+
+Try the live demo here:  
+[https://effervescent-dieffenbachia-0da66f.netlify.app/](https://effervescent-dieffenbachia-0da66f.netlify.app/)
+
+---
